@@ -1,2 +1,1 @@
-# spongefonts
-A collection of Spongebob Squarepants™ soundfonts.
+# spongefonts - A collection of Spongebob Squarepants™ soundfonts.
